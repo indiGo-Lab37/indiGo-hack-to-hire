@@ -1,65 +1,63 @@
-
-```markdown
 ## 📂 Project Structure
 
-You have organized Your project into multiple branches to facilitate better management and development:
+We have organized our project into multiple branches to facilitate better management and development:
 
 ### 🌐 Frontend Branches
 
 #### React.js
-![React](https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/React.js-61DAFB?logo=react&logoColor=white&style=for-the-badge" alt="React.js"/>
 
 This branch contains all the code related to the frontend of the application written in React.js.
 
 #### Next.js
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" alt="Next.js"/>
 
 This branch contains all the code related to the frontend of the application written in Next.js.
 
 #### Vue.js
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white&style=for-the-badge" alt="Vue.js"/>
 
 This branch contains all the code related to the frontend of the application written in Vue.js.
 
 #### MUI
-![MUI](https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/MUI-007FFF?logo=mui&logoColor=white&style=for-the-badge" alt="MUI"/>
 
 This branch contains all the code related to the frontend of the application using MUI (Material-UI).
 
 #### CSS
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
 
 This branch contains all the code related to the frontend of the application using CSS.
 
 #### Tailwind CSS
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS"/>
 
 This branch contains all the code related to the frontend of the application using Tailwind CSS.
 
 #### SCSS
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=white&style=for-the-badge" alt="SCSS"/>
 
 This branch contains all the code related to the frontend of the application using SCSS.
 
 ### 🖥️ Backend Branches
 
 #### Java
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
 
 This branch contains all the code related to the backend of the application written in Java.
 
 #### Python
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" alt="Python"/>
 
 This branch contains all the code related to the backend of the application written in Python.
 
 #### Go
-![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" alt="Go"/>
 
 This branch contains all the code related to the backend of the application written in Go.
 
 #### Node.js
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+<img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js"/>
 
 This branch contains all the code related to the backend of the application written in Node.js.
 
@@ -172,4 +170,3 @@ This branch contains all the code related to the backend of the application writ
     ```
 
 By following these steps, you can effectively manage and maintain the frontend and multiple backend codebases separately. Ensure that each branch is regularly updated and merged as needed to keep the project in sync. Happy coding! 🎉
-```
