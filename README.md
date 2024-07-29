@@ -2,7 +2,7 @@
 ```markdown
 ## 📂 Project Structure
 
-You have to organized Your project into multiple branches to facilitate better management and development:
+We have organized our project into multiple branches to facilitate better management and development:
 
 ### 🌐 Frontend Branches
 
@@ -173,5 +173,3 @@ This branch contains all the code related to the backend of the application writ
 
 By following these steps, you can effectively manage and maintain the frontend and multiple backend codebases separately. Ensure that each branch is regularly updated and merged as needed to keep the project in sync. Happy coding! 🎉
 ```
-
-Copy and paste this into your GitHub README file to provide clear instructions on how to manage the code in the repository for both multiple frontend and backend technologies.
