@@ -1,9 +1,8 @@
-Sure! Here’s the updated README section that includes multiple frontend and backend technologies:
 
 ```markdown
 ## 📂 Project Structure
 
-We have organized our project into multiple branches to facilitate better management and development:
+You have to organized Your project into multiple branches to facilitate better management and development:
 
 ### 🌐 Frontend Branches
 
