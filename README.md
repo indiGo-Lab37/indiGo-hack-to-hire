@@ -2,7 +2,7 @@
 ```markdown
 ## 📂 Project Structure
 
-We have organized our project into multiple branches to facilitate better management and development:
+You have organized Your project into multiple branches to facilitate better management and development:
 
 ### 🌐 Frontend Branches
 
